@@ -86,3 +86,9 @@ All time IPL elo ratings including teams not in the league anymore
 |Sunrisers Hyderabad        |901.56   |166         |78  |4   |0.47    |
 |Pune Warriors              |900.063  |46          |12  |0   |0.261   |
 |Deccan Chargers            |887.053  |75          |29  |0   |0.387   |
+
+to-do
+- add elo ratings for test matches
+- add elo rating for odi matches
+- add elo rating for t20i matches
+- add elo rating for womens format as well
