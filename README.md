@@ -87,6 +87,10 @@ All time IPL elo ratings including teams not in the league anymore
 |Pune Warriors              |900.063  |46          |12  |0   |0.261   |
 |Deccan Chargers            |887.053  |75          |29  |0   |0.387   |
 
+Elo Rating progression of each team by season:
+
+![](https://github.com/chinmay-choudhary/cricket-elo-rating/blob/develop/output.gif)
+
 to-do
 - add elo ratings for test matches
 - add elo rating for odi matches
