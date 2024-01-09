@@ -4,3 +4,5 @@ __MACOSX
 *.csv
 sample.ipynb
 C
+*.parquet
+x.py
